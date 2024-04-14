@@ -1,0 +1,15 @@
+#include<stdio.h>
+int main ()
+{
+ int WK,pay;
+ scanf("%d",&WK);
+ if(WK>40)
+    pay=(40*12)-((WK-40)*18);
+    else
+    {
+        pay=WK*12;
+    }
+ printf("pay is %d",pay);
+
+    return 0;
+}

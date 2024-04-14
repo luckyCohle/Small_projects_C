@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1674812104 source:c:\users\aayush yadav\onedrive\desktop\sortingsstrings\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1675357257 source:c:\users\aayush yadav\onedrive\desktop\selection sorting\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
